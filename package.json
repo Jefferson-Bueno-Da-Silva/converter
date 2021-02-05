@@ -1,0 +1,23 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "Converte polegadas em CM",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jefferson-Bueno-Da-Silva/converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jefferson-Bueno-Da-Silva/converter/issues"
+  },
+  "homepage": "https://github.com/Jefferson-Bueno-Da-Silva/converter#readme",
+  "devDependencies": {
+    "electron": "^11.2.2"
+  }
+}
